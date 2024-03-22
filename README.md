@@ -1,2 +1,2 @@
 # Python notes
-Jypyter Notebooks.
+Jupyter Notebooks.
